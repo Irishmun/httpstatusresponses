@@ -27,7 +27,7 @@ To add this library to your project, do one of the following:<br>
 ```
 <br>
 -Add it using gradle:<br>
-```
+```groovy
   sourceControl {
     gitRepository("https://github.com/Irishmun/httpstatusresponses.git") {
         producesModule("org.steef.httpstatus")
