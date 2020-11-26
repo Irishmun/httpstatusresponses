@@ -17,21 +17,23 @@ The Hypertext transfer protocol (HTTP) normally contains 5 different types of co
 To add this library to your project, do one of the following:<br>
 -Add it using maven:<br>
   add <a href="https://jitpack.io/">jitpack</a> to your pom.xml<br>
-  then add <code>
-  <dependency>
+  then add
+  ```xml
+ <dependency>
     <groupId>com.github.Irishmun</groupId>
     <artifactId>httpstatusresponses</artifactId>
     <version>1.0</version>
 </dependency>
-</code>
-<code> </code><br>
+```
+<br>
 -Add it using gradle:<br>
-<code>
+```
   sourceControl {
     gitRepository("https://github.com/Irishmun/httpstatusresponses.git") {
         producesModule("org.steef.httpstatus")
     }
 }
-</code><br>
+```
+<br>
 -Add it manualy:
 To add this library manually, download the jar from the <a href="https://github.com/Irishmun/httpstatusresponses/releases">releases</a> page and add it to the library folder of your project
