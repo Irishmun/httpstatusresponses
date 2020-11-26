@@ -30,15 +30,26 @@ To add this library to your project, do one of the following:
 </dependency>
 ```
 
-<b>-Add</b> `gradle.build`:
+<b>-Add</b> gradle:
+
+`settings.gradle`
 
 ```groovy
-  sourceControl {
+ sourceControl {
     gitRepository("https://github.com/Irishmun/httpstatusresponses.git") {
-        producesModule("org.steef.httpstatus")
+        producesModule("org.steef.httpstatus:1.0")
     }
 }
 ```
+
+`build.gradle`
+
+```groovy
+ dependencies {
+    implementation 'org.steef.httpstatus:X'
+    }
+```
+where X is the version you wish to download. (refer to <a href="https://github.com/Irishmun/httpstatusresponses/releases">releases</a> for version numbers)
 
 <b>-Add</b> it manualy:
 
