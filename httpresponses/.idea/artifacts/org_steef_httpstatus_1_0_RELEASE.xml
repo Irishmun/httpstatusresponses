@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="org.steef.httpstatus:1.0.RELEASE">
-    <output-path>$PROJECT_DIR$/out/artifacts/org_steef_httpstatus_1_0_RELEASE</output-path>
-    <root id="archive" name="httpresponses.jar">
-      <element id="module-output" name="httpresponses" />
-    </root>
-  </artifact>
-</component>
