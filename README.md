@@ -41,4 +41,5 @@ To add this library to your project, do one of the following:
 ```
 
 <b>-Add</b> it manualy:
+
 To add this library manually, download the jar from the <a href="https://github.com/Irishmun/httpstatusresponses/releases">releases</a> page and add it to the library folder of your project
