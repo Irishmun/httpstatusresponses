@@ -17,7 +17,7 @@ The Hypertext transfer protocol (HTTP) normally contains 5 different types of co
 
 To add this library to your project, do one of the following:
 
--Add `pom.xml`:
+<b>-Add</b> `pom.xml`:
 
   add <a href="https://jitpack.io/">jitpack</a>
   then add
@@ -30,7 +30,7 @@ To add this library to your project, do one of the following:
 </dependency>
 ```
 
--Add `gradle.build`:
+<b>-Add</b> `gradle.build`:
 
 ```groovy
   sourceControl {
@@ -40,5 +40,5 @@ To add this library to your project, do one of the following:
 }
 ```
 
--Add it manualy:
+<b>-Add</b> it manualy:
 To add this library manually, download the jar from the <a href="https://github.com/Irishmun/httpstatusresponses/releases">releases</a> page and add it to the library folder of your project
