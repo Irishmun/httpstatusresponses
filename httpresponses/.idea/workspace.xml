@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="org.steef.httpstatus:1.0.RELEASE" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e97c9b8b-4eb3-4082-9495-68161d61f47f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../clubminitrest/lib/httpresponses.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/official/clientError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/official/informational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/official/redirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/official/serverError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/official/successful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/unofficial/AWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/unofficial/IIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/unofficial/cloudfare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/unofficial/nginx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/steef/httpstatus/unofficial/unspecified.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clubminitrest/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../clubminitrest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clubminitrest/src/main/java/com/steef/clubminit/resource/MessageResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clubminitrest/src/main/java/com/steef/clubminit/resource/MessageResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clubminitrest/src/main/java/com/steef/clubminit/resource/PlayerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../clubminitrest/src/main/java/com/steef/clubminit/resource/PlayerResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clubminitrest/src/main/java/com/steef/clubminit/util/Responses.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kqPKbyuDgvJGrC7WHlQIoHHNrm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\club-minit\httpstatusresponsecodes\src\com\steef\httpstatus\unofficial" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97c9b8b-4eb3-4082-9495-68161d61f47f" name="Default Changelist" comment="" />
+      <created>1606425087002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606425087002</updated>
+      <workItem from="1606425088244" duration="2926000" />
+      <workItem from="1606428055038" duration="2032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606428770319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606428770319" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1606429114981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606429114981" />
+  </component>
+</project>
