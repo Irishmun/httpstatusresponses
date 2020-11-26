@@ -16,6 +16,14 @@ The Hypertext transfer protocol (HTTP) normally contains 5 different types of co
 # instaling
 To add this library to your project, do one of the following:<br>
 -Add it using maven:<br>
+  add <a href="https://jitpack.io/">jitpack</a> to your pom.xml<br>
+  then add <code>
+  <dependency>
+    <groupId>com.github.Irishmun</groupId>
+    <artifactId>httpstatusresponses</artifactId>
+    <version>1.0</version>
+</dependency>
+</code>
 <code> </code><br>
 -Add it using gradle:<br>
 <code>
