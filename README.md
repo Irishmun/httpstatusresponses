@@ -31,9 +31,6 @@ Then either add the dependency manually or:
 -using maven:
 
 `pom.xml`
-
-  add <a href="https://jitpack.io/">jitpack</a>
-  then add
   
   ```xml
  <dependency>
