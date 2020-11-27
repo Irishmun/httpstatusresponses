@@ -12,7 +12,7 @@ The Hypertext transfer protocol (HTTP) normally contains 5 different types of co
   <li>4xx (client error)</li>
   <li>5xx (server error)</li>
 </ul>
-
+<!---
 # instaling
 
 To add this library to your project, do one of the following:
@@ -56,3 +56,5 @@ where X is the version you wish to download. (refer to <a href="https://github.c
 <b>-Add</b> it manualy:
 
 To add this library manually, download the jar from the <a href="https://github.com/Irishmun/httpstatusresponses/releases">releases</a> page and add it to the library folder of your project
+
+-->
