@@ -12,8 +12,42 @@ The Hypertext transfer protocol (HTTP) normally contains 5 different types of co
   <li>4xx (client error)</li>
   <li>5xx (server error)</li>
 </ul>
-<!---
+
 # instaling
+
+To install this library, download the latest <a href="https://github.com/Irishmun/httpstatusresponses/releases">release</a> and add it to your library folder.
+Then either add the dependency manually or:
+
+-using gradle:
+
+`build.gradle`
+
+```groovy
+ dependencies {
+       implementation fileTree(dir: '[library folder]',include: 'httpresponses.jar')
+    }
+```
+
+-using maven:
+
+`pom.xml`
+
+  add <a href="https://jitpack.io/">jitpack</a>
+  then add
+  
+  ```xml
+ <dependency>
+            <groupId>org.steef</groupId>
+            <artifactId>httpstatus</artifactId>
+            <scope>system</scope>
+            <version>[Downloaded version release]</version>
+            <systemPath>${basedir}[library directory]\httpresponses.jar</systemPath>
+        </dependency>
+    </dependencies>
+```
+
+
+<!---
 
 To add this library to your project, do one of the following:
 
