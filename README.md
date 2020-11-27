@@ -18,7 +18,7 @@ The Hypertext transfer protocol (HTTP) normally contains 5 different types of co
 To install this library, download the latest <a href="https://github.com/Irishmun/httpstatusresponses/releases">release</a> and add it to your library folder.
 Then either add the dependency manually or:
 
--using gradle:
+-add the dependency using gradle:
 
 `build.gradle`
 
@@ -28,7 +28,7 @@ Then either add the dependency manually or:
     }
 ```
 
--using maven:
+-add the dependency using maven:
 
 `pom.xml`
   
