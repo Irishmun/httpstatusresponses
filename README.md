@@ -93,4 +93,5 @@ To add this library manually, download the jar from the <a href="https://github.
 # roadmap
 
 -Add jersey return methods
+
 -Add maven and gradle dependency to negate the need to download and add it manually 
