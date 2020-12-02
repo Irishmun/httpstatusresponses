@@ -89,3 +89,8 @@ where X is the version you wish to download. (refer to <a href="https://github.c
 To add this library manually, download the jar from the <a href="https://github.com/Irishmun/httpstatusresponses/releases">releases</a> page and add it to the library folder of your project
 
 -->
+
+# roadmap
+
+-Add jersey return methods
+-Add maven and gradle dependency to negate the need to download and add it manually 
